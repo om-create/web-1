@@ -1,0 +1,28 @@
+#navigation-bar {
+  background-color: #ddf3f5;
+  padding: 3% 10%;
+  font-size: 1.25rem;
+
+}
+#image-text {
+  background-color: #ddf3f5;
+}
+
+.container {
+  padding: 50px;
+  text-align: center;
+}
+
+.nav-barr {
+  margin: 10px 30px;
+}
+
+h2 {
+  padding: 6% 9%;
+  font-family: 'montserrat';
+}
+#carousel-group {
+  text-align: center;
+  background-color: #ddf3f5;
+  padding: 50px 50px;
+}
